@@ -52,3 +52,4 @@ print(names[1])
 # Prints what index the first occurence of Mike is at.
 print(names.index('Mike'))
 print(len('Hello'))
+
