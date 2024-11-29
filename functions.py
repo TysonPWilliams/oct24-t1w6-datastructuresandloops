@@ -12,3 +12,10 @@ greet(age=29, name='Tyson')
 
 
 greet('Mary', 21, 'NZ')
+
+people = ['Greg', 'Jane', 'Bob', 'Bill']
+print(people)
+
+people.append('Joseph')
+
+print(people)
